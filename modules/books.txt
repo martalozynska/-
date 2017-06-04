@@ -1,13 +1,13 @@
 Harry Potter Collection
 The Hitchhiker's Guide to the Galaxy
-The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story (Hitchhiker's Guide to the Galaxy, #1-5)
-The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1-5)
-The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)
+The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story
+The Ultimate Hitchhiker's Guide to the Galaxy
+The Hitchhiker's Guide to the Galaxy
 The Hitchhiker's Guide to Lean: Lessons from the Road
-The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)
-The Hitchhiker's Guide to the Galaxy: Quandary Phase (Hitchhiker's Guide: Radio Play, #4)
-The Ultimate Hitchhiker's Guide (Hitchhiker's Guide to the Galaxy #1-5)
-The Hitchhiker's Guide to the Galaxy: Quintessential Phase (Hitchhiker's Guide: Radio Play, #5)
+The Hitchhiker's Guide to the Galaxy
+The Hitchhiker's Guide to the Galaxy: Quandary Phase
+The Ultimate Hitchhiker's Guide
+The Hitchhiker's Guide to the Galaxy: Quintessential Phase
 A Short History of Nearly Everything
 Bill Bryson's African Diary
 Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right
@@ -18,21 +18,21 @@ Neither Here nor There: Travels in Europe
 Notes from a Small Island
 The Mother Tongue: English and How It Got That Way
 J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings
-The Lord of the Rings (The Lord of the Rings, #1-3)
-The Lord of the Rings (The Lord of the Rings, #1-3)
-The Lord of the Rings (The Lord of the Rings, #1-3)
-The Fellowship of the Ring (The Lord of the Rings, #1)
-The Lord of the Rings (The Lord of the Rings, #1-3)
+The Lord of the Rings
+The Lord of the Rings
+The Lord of the Rings
+The Fellowship of the Ring
+The Lord of the Rings
 The Lord of the Rings: Weapons and Warfare
 The Lord of the Rings: Complete Visual Companion
-The Lord of the Rings Hardcover Box Set (The Lord of the Rings, #1-3)
+The Lord of the Rings Hardcover Box Set
 The Lord of the Rings
-Cooking with Fernet Branca (Gerald Samper, #1)
+Cooking with Fernet Branca
 Agile Web Development with Rails: A Pragmatic Guide
 Ruby Quickly: Ruby and Rails for the Real World
 The Bucaneers
 Bucaneer
-Hatchet (Brian's Saga, #1)
+Hatchet
 Hatchet: A Guide for Using "Hatchet" in the Classroom
 El hacha
 Guts: The True Stories behind Hatchet and the Brian Books
@@ -40,13 +40,13 @@ Molly Hatchet - 5 of the Best
 Hatchet Jobs: Writings on Contemporary Fiction
 The Woodsman and His Hatchet: Eighty Years on Back Country Survival
 A Changeling for All Seasons
-Changeling (Changeling, #1)
+Changeling
 The Changeling Sea
-Changelings (The Twins of Petaybee, #1)
+Changelings
 The Changeling
 The Changeling
-Shadows in the Starlight (Changeling Detective, #2)
-The Changeling (Daughters of England, #15)
+Shadows in the Starlight
+The Changeling
 The Known World
 The Known World
 The Known World
@@ -54,7 +54,7 @@ I Wish I Had Known That!: World's Greatest Money & Time Saving Baby Secrets Reve
 Traders, Guns & Money: Knowns and Unknowns in the Dazzling World of Derivatives
 Artesia: Adventures in the Known World
 The Known World
-The John McPhee Reader (John McPhee Reader, #1)
+The John McPhee Reader
 Uncommon Carriers
 Heirs of General Practice
 The Control of Nature
@@ -62,52 +62,52 @@ Annals of the Former World
 Coming into the Country
 La Place de la Concorde Suisse
 Giving Good Weight
-The Second John McPhee Reader (John McPhee Reader, #2)
+The Second John McPhee Reader
 Rising from the Plains
 Heidi
 The Heidi Chronicles
 The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic
 Pandering
-Love Your Handwriting (Creating Keepsakes)
+Love Your Handwriting
 Active Literacy Across the Curriculum: Strategies for Reading, Writing, Speaking, and Listening
 Simply Beautiful Beaded Jewelry
 Always Enough: God's Miraculous Provision Among the Poorest Children on Earth
 Mapping the Big Picture: Integrating Curriculum & Assessment K-12
 Heidi
 Getting Results with Curriculum Mapping
-Cinnamon and Roses (Rose Trilogy, #1)
+Cinnamon and Roses
 There's Always Enough: The Miraculous Move of God in Mozambique
 The Birthdays
-What to Expect the First Year (What to Expect)
+What to Expect the First Year
 The Player's Handbook: The Ultimate Guide on Dating and Relationships
 Simply Beautiful Beading
 Chasing Jordan
 Seven-Year Seduction
-God Emperor of Dune (Dune Chronicles, #4)
-Dune (Dune Chronicles, #1)
-Chapterhouse: Dune (Dune Chronicles #6)
-Dune Messiah (Dune Chronicles #2)
+God Emperor of Dune
+Dune
+Chapterhouse: Dune
+Dune Messiah
 Dreamer of Dune: The Biography of Frank Herbert
 The Secrets of Frank Herbert's Dune
-Heretics of Dune (Dune Chronicles, #5)
-The Road to Dune (Dune Universe)
-Dios emperador de Dune (Dune Chronicles, #4)
-Children of Dune (Dune Chronicles #3)
-Dune (Dune Chronicles, #1)
-Dune Trilogy Box Set (Dune Chronicles, #1-3)
+Heretics of Dune
+The Road to Dune
+Dios emperador de Dune
+Children of Dune
+Dune
+Dune Trilogy Box Set
 Worlds Beyond Dune Box
 The Dune Encyclopedia
-Heretics of Dune (Dune Chronicles #5)
+Heretics of Dune
 The Battles of Dune
 The Lord of the Rings: The Art of The Fellowship of the Ring
 The Trust: The Private and Powerful Family behind the New York Times
 The Patriarch: The Rise and Fall of the Bingham Dynasty
-The Power of One (The Power of One, #1)
-The Power of One (The Power of One, #1)
+The Power of One
+The Power of One
 Lose Weight with The Power of One: A Motivational Journey to Nutritional Sanity
 The Power of One: Daisy Bates and the Little Rock Nine
-The Power of One (The Power of One, #1)
-Powers Unlimited One: A Sourcebook for Heroes Unlimited (Heroes Unlimited, #1)
+The Power of One
+Powers Unlimited One: A Sourcebook for Heroes Unlimited
 The Power of One Christlike Life
 The Power of One: One Person, One Rule, One Month
 The Power of an Hour: Business and Life Mastery in One Hour a Week
@@ -146,31 +146,31 @@ The Untouchable
 The Untouchables
 Untouchables: My Family's Triumphant Journey Out of the Caste System in Modern India
 Dalit: The Black Untouchables of India
-The Untouchables: Subordination, Poverty and the State in Modern India (Contemporary South Asia, #4)
+The Untouchables: Subordination, Poverty and the State in Modern India
 Growing Up Untouchable in India: A Dalit Autobiography
 The Book of Evidence
 The Evidence-Based Social Work Skills Book
 Surgery: Basic Science and Clinical Evidence
-The Book of Evidence (The Freddie Montgomery Trilogy, #1)
+The Book of Evidence
 A Challenge to the Critics: Scholarly Evidences of the Book of Mormon
 Little Known Evidences of the Book of Mormon
 A Wrinkle in Time: A Guide for Using "A Wrinkle in Time" in the Classroom
 A Wrinkle in Time by Madeleine L'Engle: Study Guide
 A Wrinkle in Time: LitPlan Teacher Pack
 Wrinkles in Time
-A Wrinkle in Time: With Related Readings (A Wrinkle in Time Quintet #1)
+A Wrinkle in Time: With Related Readings
 Literature Circle Guide: A Wrinkle in Time
 Un raccourci dans le temps
 Empress in the Wrinkle of Time: The Knight-King Chronicle
 Access to Literature: A Wrinkle in Time
 Wrinkles in Time: Imprint of Creation
-Madeleine L'Engle: Author of a Wrinkle in Time (People in Focus)
-A Wrinkle in Time: A Reading Guide (Scholastic Bookfiles)
-A Wrinkle in Time (A Wrinkle in Time Quintet, #1)
+Madeleine L'Engle: Author of a Wrinkle in Time
+A Wrinkle in Time: A Reading Guide
+A Wrinkle in Time
 Literature Connections Sourcebook: A Wrinkle in Time and Related Readings
 A Wrinkle in Time: L-I-T Guide
 A Literature Guide to "A Wrinkle in Time" by Madeleine L'Engle
-A Wrinkle in Time (A Wrinkle in Time Quintet, #1)
+A Wrinkle in Time
 Decision & Responsibility: A Wrinkle in Time
 The Silver Sword
 A Wrinkle in Time: Teacher Guide
@@ -179,11 +179,11 @@ A Wrinkle in Time: Student Packet
 Una arruga en el tiempo – A Wrinkle in Time
 The Long Shadow of Little Rock: A Memoir
 The Long Shadow of Temperament
-The Long Shadow (The Morland Dynasty, #6)
-A Long Shadow (Inspector Ian Rutledge, #8)
+The Long Shadow
+A Long Shadow
 Vicksburg's Long Shadow: The Civil War Legacy of Race and Remembrance
 Long Way Round: Chasing Shadows Across the World
-A Shadow in Summer (Long Price Quartet, #1)
+A Shadow in Summer
 The Long Shadow
 Long Shadows: Truth, Lies and History
 The Collected Memoirs of Charles Willeford: I Was Looking for a Street/Something About a Soldier
@@ -200,18 +200,18 @@ The Black Mass of Brother Springer
 Comedy after Postmodernism: Rereading Comedy from Edward Lear to Charles Willeford
 Cockfighter
 Sideswipe
-The Burnt Orange Heresy (Vintage Crime/Black Lizard)
+The Burnt Orange Heresy
 I am Charlotte Simmons
 I am Charlotte Simmons
 The Complete Verse and Other Nonsense
 The Complete Nonsense of Edward Lear
 Poetry for Young People: Edward Lear
-Later Letters of Edward Lear to Chichester Fortescue (Select Bibliographies Reprint Ser.))
+Later Letters of Edward Lear to Chichester Fortescue
 An Edward Lear Alphabet
 Edward Lear's Nonsense Verse
 A Was Once an Apple Pie
 The Owl and the Pussycat
-The Pobble Who Has No Toes (Edward Lear's Little Books of Nonsense)
+The Pobble Who Has No Toes
 The Puffin Book Of Nonsense Verse
 Henry Miller on Writing
 The Colossus of Maroussi
@@ -219,8 +219,8 @@ Quiet Days in Clichy
 Big Sur and the Oranges of Hieronymus Bosch
 Tropic of Cancer
 Tropic of Capricorn
-Nexus (The Rosy Crucifixion, #3)
-Sexus (The Rosy Crucifixion, #1)
+Nexus
+Sexus 
 The Air-Conditioned Nightmare
 The Time of the Assassins:  a Study of Rimbaud
 Public Places-Urban Spaces: The Dimensions of Urban Design
@@ -234,7 +234,7 @@ Pike Place Public Market Seafood Cookbook
 Art for Public Places: Critical Essays
 The Portrait of a Lady
 The Portrait of a Lady
-The Portrait of a Lady (The Classic Collection)
+The Portrait of a Lady 
 Portrait of the Blue Lady: The Character of Melancholy
 The Portrait of a Lady
 The Portrait of a Lady

@@ -8,15 +8,16 @@ def read_file():
     to the list, then formates it to set (if some books appear twice and more times)
     and then back to list.
     '''
-    lst = []
-    file = open("book.txt", 'r')
+    lst_of_books = []
+    file = open("books.txt", 'r')
     for line in file:
         line = line.strip()
-        lst.append(line)
-    lst = set(lst)
-    return lst
+        lst_of_books.append(line)
+    lst_of_books = set(lst_of_books)
+    return lst_of_books
 
 books = list(read_file())
+
 
 def find_book():
     '''
@@ -30,16 +31,53 @@ def find_book():
         try:
             lookup = itunespy.search_book(book)
             if lookup[0].type == 'ebook':
-               book_attributes_needed.append(lookup[0].track_name)
-               book_attributes_needed.append(lookup[0].artist_name)
-               book_attributes_needed.append(lookup[0].price)
-               book_attributes_needed.extend([personal_lst])
+               personal_lst.append(lookup[0].track_name)
+               personal_lst.append(lookup[0].artist_name)
+               personal_lst.append(lookup[0].price)
+               book_attributes_needed.append(personal_lst)
                personal_lst = []
         except:
             pass
     
-    
     return book_attributes_needed
-   
-find_book()
+  
+needed_attributes = find_book()
+print(needed_attributes)
+def analyse_data():
+    result_lst = []
+    result = ''
+    price = eval(input("What price of the book do You prefer? If You want it free, just type '0': "))
+    for book in needed_attributes:
+         try:
+            if 2 <= price <= 5 and 2 <= book[3] <= 5:
+                result_lst.append(book)
+            elif 5 < price <= 8 and 5 < book[3] <= 8:
+                result_lst.append(book)
+            elif 8 < price <= 11 and  8 < book[3] <= 11:
+                result_lst.append(book)
+            elif 11 < price <= 15 and  11 < book[3] <= 15:
+                result_lst.append(book)
+            elif 15 < price <= 20 and  15 < book[3] <= 20:
+                result_lst.append(book)
+            elif 20 < price <= 25 and  20 < book[3] <= 25:
+                result_lst.append(book)
+            elif 25 < price <= 30 and  25 < book[3] <= 30:
+                result_lst.append(book)
+            elif 30 < price <= 40 and  30 < book[3] <= 40:
+                result_lst.append(book)
+            elif price > 40 and book[3] > 40:
+                result_lst.append(book)
+            elif price == 0 and book[3] == 0.0:
+                result_lst.append(book)
+         except:
+             pass
+    for book in result_lst:
+        result = "Title: " + str(book[0]) + "\n" + "Author: " + str(book[1]) + '\n' + "Price: " + str(book[3]) + '\n'
+        print(result)
+        result = ''
 
+
+    return result
+
+
+#print(analyse_data())
