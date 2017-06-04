@@ -119,7 +119,5 @@ class Books:
         return result
 
 
-book = Books()
-print(book.analyse_data())
-#['The Lover', 'Marguerite Duras', 11.99, ['Historical', 'Books', 'Romance', 'Fiction & Literature', 'Literary', 'Historical']]
-#['The Ravishing of Lol Stein', 'Marguerite Duras', 11.99, ['Literary', 'Books', 'Fiction & Literature', 'Classics', 'Historical']]
+#book = Books()
+#print(book.analyse_data())
