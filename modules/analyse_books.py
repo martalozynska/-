@@ -8,7 +8,7 @@ class Books:
 
     def read_file(self):
         '''
-        This function reads file called "book.txt" and saves the data
+        This method reads file called "book.txt" and saves the data
         to the list, then formates it to set (if some books appear twice and more times)
         and then back to list.
         '''
@@ -24,7 +24,7 @@ class Books:
 
     def find_book(self):
         '''
-        Checks the list from the function read_file() whether the books are present
+        Checks the list from the method read_file() whether the books are present
         in the database of iTunes Store. Then saves only the name of the book, the author
         and price to the separate lists.
         '''
@@ -48,6 +48,10 @@ class Books:
 
 
     def genres(self):
+        '''
+        Method prints all genres.
+        :return: list of genres of books.
+        '''
         needed_attributes = self.find_book()
         genre = set()
         for book_lst in needed_attributes:
@@ -62,6 +66,11 @@ class Books:
 
 
     def analyse_data(self):
+        '''
+        Asks user to input the price and the genre of book he wants to read/buy.
+         Then, the books that suit the most for these requirements.
+        :return: book title, author, price and genre of the book that user can like.
+        '''
         needed_attributes = self.find_book()
         genres = self.genres()
         gen = ''
