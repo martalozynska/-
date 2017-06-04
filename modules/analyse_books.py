@@ -39,12 +39,12 @@ class Books:
                     personal_lst.append(lookup[0].artist_name)
                     personal_lst.append(lookup[0].price)
                     personal_lst.append(lookup[0].genres)
+                    personal_lst.append(lookup[0].track_view_url)
                     book_attributes_needed.append(personal_lst)
                     personal_lst = []
             except:
                 pass
         return book_attributes_needed
-
 
 
     def genres(self):
@@ -56,7 +56,7 @@ class Books:
         genre = set()
         for book_lst in needed_attributes:
             for element in book_lst:
-                if element == book_lst[-1]:
+                if element == book_lst[-2]:
                     for g in element:
                         genre.add(g)
         print("Here is the list of genres: ")
@@ -76,7 +76,7 @@ class Books:
         gen = ''
         result_lst = []
         result = ''
-        price = eval(input("What price of the book do You prefer? If You want it free, just type '0': "))
+        price = eval(input("What price of the book do You prefer? If You want it free, just type '0'(USD): "))
         genre = input("Please, type 1 genre which you have chosen from the list above: ")
         for book in needed_attributes:
             if genre not in genres:
@@ -112,7 +112,7 @@ class Books:
                     gen += ', '
                 elif g == book[3][-1]:
                     gen += '.'
-            result = "\nTitle: " + str(book[0]) + "\n" + "Author: " + str(book[1]) + '\n' + "Price: " + str(book[2]) + '\n' + "Genres: " + gen + '\n \n'
+            result = "\nTitle: " + str(book[0]) + "\n" + "Author: " + str(book[1]) + '\n' + "Price: " + str(book[2]) + '\n' + "Genres: " + gen + '\n'+ 'Url to the iTunes: ' + book[4] +'\n \n'
             print(result)
             result = ''
             gen = ''
